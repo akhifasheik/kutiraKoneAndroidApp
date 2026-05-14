@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956335964129",
+    "project_id": "kutirakone-androidapp",
+    "storage_bucket": "kutirakone-androidapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956335964129:android:bdfadd28bcffd0706f5ca0",
+        "android_client_info": {
+          "package_name": "com.kutira.kone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956335964129-u3mvasqgkvddt23m74i3hsftejmfo2s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kutira.kone",
+            "certificate_hash": "9e6d923c859e5b41c0fbb23b4897a88ba15a06f7"
+          }
+        },
+        {
+          "client_id": "956335964129-404o8tctk8u0u750l5oe2ek33mf2em57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxFFO9k0xLWp3o2jjNq3ca3vE8BRrMRhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956335964129-404o8tctk8u0u750l5oe2ek33mf2em57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
