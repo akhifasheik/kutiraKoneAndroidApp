@@ -81,6 +81,7 @@ The application follows MVVM (Model-View-ViewModel) Architecture using:
 ```properties
 GEMINI_API_KEY=your_key_here
 MAPS_API_KEY=your_key_here
+```
 
 ---
 
