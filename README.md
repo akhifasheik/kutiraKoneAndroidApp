@@ -108,29 +108,19 @@ MAPS_API_KEY=your_key_here
 <br>
 
 <p align="center">
-  <img src="screenshots/RazorPaySuccessOrFailure.jpeg" width="220"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="screenshots/CustomerOrders.jpeg" width="220"/>
   &nbsp;&nbsp;&nbsp;
   <img src="screenshots/MyOrders.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/CustomerProfile.jpeg" width="220"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="screenshots/CustomerProfile.jpeg" width="220"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="screenshots/VendorProfile.jpeg" width="220"/>
   &nbsp;&nbsp;&nbsp;
   <img src="screenshots/TradeRequests.jpeg" width="220"/>
-</p>
-
-<br>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <img src="screenshots/ShippedProducts.jpeg" width="220"/>
 </p>
-
-
-
-
