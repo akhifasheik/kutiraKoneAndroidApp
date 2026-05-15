@@ -81,3 +81,37 @@ The application follows MVVM (Model-View-ViewModel) Architecture using:
 ```properties
 GEMINI_API_KEY=your_key_here
 MAPS_API_KEY=your_key_here
+
+---
+
+## Screenshots
+
+| Role Selection | Marketplace |
+|---|---|
+| ![](screenshots/VendorCustomerSignInPage.jpeg) | ![](screenshots/MarketPlaceInterface.jpeg) |
+
+| Fabric Details | Wishlist |
+|---|---|
+| ![](screenshots/FabricDetails.jpeg) | ![](screenshots/WishList.jpeg) |
+
+| Checkout | Razorpay Payment |
+|---|---|
+| ![](screenshots/Checkout.jpeg) | ![](screenshots/RazorPay.jpeg) |
+
+| Payment Result | Customer Orders |
+|---|---|
+| ![](screenshots/RazorPaySuccessOrFailure.jpeg) | ![](screenshots/CustomerOrders.jpeg) |
+
+| My Orders | Customer Profile |
+|---|---|
+| ![](screenshots/MyOrders.jpeg) | ![](screenshots/CustomerProfile.jpeg) |
+
+| Vendor Profile | Trade Requests |
+|---|---|
+| ![](screenshots/VendorProfile.jpeg) | ![](screenshots/TradeRequests.jpeg) |
+
+| Shipped Products |
+|---|
+| ![](screenshots/ShippedProducts.jpeg) |
+
+
