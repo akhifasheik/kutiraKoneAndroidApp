@@ -88,40 +88,48 @@ MAPS_API_KEY=your_key_here
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/VendorCustomerSignInPage.jpeg" width="230"/>
-  <img src="screenshots/MarketPlaceInterface.jpeg" width="230"/>
+  <img src="screenshots/VendorCustomerSignInPage.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/MarketPlaceInterface.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/FabricDetails.jpeg" width="220"/>
 </p>
+
+<br>
 
 <p align="center">
-  <img src="screenshots/FabricDetails.jpeg" width="230"/>
-  <img src="screenshots/WishList.jpeg" width="230"/>
+  <img src="screenshots/WishList.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/Checkout.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/RazorPay.jpeg" width="220"/>
 </p>
+
+<br>
 
 <p align="center">
-  <img src="screenshots/Checkout.jpeg" width="230"/>
-  <img src="screenshots/RazorPay.jpeg" width="230"/>
+  <img src="screenshots/RazorPaySuccessOrFailure.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/CustomerOrders.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/MyOrders.jpeg" width="220"/>
 </p>
+
+<br>
 
 <p align="center">
-  <img src="screenshots/RazorPaySuccessOrFailure.jpeg" width="230"/>
-  <img src="screenshots/CustomerOrders.jpeg" width="230"/>
+  <img src="screenshots/CustomerProfile.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/VendorProfile.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/TradeRequests.jpeg" width="220"/>
 </p>
+
+<br>
 
 <p align="center">
-  <img src="screenshots/MyOrders.jpeg" width="230"/>
-  <img src="screenshots/CustomerProfile.jpeg" width="230"/>
+  <img src="screenshots/ShippedProducts.jpeg" width="220"/>
 </p>
-
-<p align="center">
-  <img src="screenshots/VendorProfile.jpeg" width="230"/>
-  <img src="screenshots/TradeRequests.jpeg" width="230"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/ShippedProducts.jpeg" width="230"/>
-</p>
-
-
 
 
 
