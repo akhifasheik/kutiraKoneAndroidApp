@@ -6,6 +6,27 @@ The app enables users to explore fabrics, receive AI-based recommendations, mana
 
 ---
 
+## Problem Statement
+
+Traditional fabric purchasing and tailoring processes lack digital connectivity between customers, vendors, and tailors. Customers often struggle to discover nearby fabric stores, compare products, and receive personalized recommendations.
+
+Kutira Kone solves this problem through an AI-powered Android marketplace platform that connects customers and vendors with smart recommendations, real-time order management, and location-based services.
+
+---
+
+## Architecture
+
+The application follows MVVM (Model-View-ViewModel) Architecture using:
+
+- Jetpack Compose for UI
+- ViewModel for state management
+- Repository Pattern for data handling
+- Firebase Firestore & Storage as backend
+- Hilt for Dependency Injection
+- Coroutines for asynchronous operations
+
+---
+
 # Features
 
 - User Authentication using Firebase
