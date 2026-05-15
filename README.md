@@ -113,5 +113,3 @@ MAPS_API_KEY=your_key_here
 | Shipped Products |
 |---|
 | ![](screenshots/ShippedProducts.jpeg) |
-
-
