@@ -87,30 +87,42 @@ MAPS_API_KEY=your_key_here
 
 ## Screenshots
 
-| Role Selection | Marketplace |
-|---|---|
-| ![](screenshots/VendorCustomerSignInPage.jpeg) | ![](screenshots/MarketPlaceInterface.jpeg) |
+<p align="center">
+  <img src="screenshots/VendorCustomerSignInPage.jpeg" width="230"/>
+  <img src="screenshots/MarketPlaceInterface.jpeg" width="230"/>
+</p>
 
-| Fabric Details | Wishlist |
-|---|---|
-| ![](screenshots/FabricDetails.jpeg) | ![](screenshots/WishList.jpeg) |
+<p align="center">
+  <img src="screenshots/FabricDetails.jpeg" width="230"/>
+  <img src="screenshots/WishList.jpeg" width="230"/>
+</p>
 
-| Checkout | Razorpay Payment |
-|---|---|
-| ![](screenshots/Checkout.jpeg) | ![](screenshots/RazorPay.jpeg) |
+<p align="center">
+  <img src="screenshots/Checkout.jpeg" width="230"/>
+  <img src="screenshots/RazorPay.jpeg" width="230"/>
+</p>
 
-| Payment Result | Customer Orders |
-|---|---|
-| ![](screenshots/RazorPaySuccessOrFailure.jpeg) | ![](screenshots/CustomerOrders.jpeg) |
+<p align="center">
+  <img src="screenshots/RazorPaySuccessOrFailure.jpeg" width="230"/>
+  <img src="screenshots/CustomerOrders.jpeg" width="230"/>
+</p>
 
-| My Orders | Customer Profile |
-|---|---|
-| ![](screenshots/MyOrders.jpeg) | ![](screenshots/CustomerProfile.jpeg) |
+<p align="center">
+  <img src="screenshots/MyOrders.jpeg" width="230"/>
+  <img src="screenshots/CustomerProfile.jpeg" width="230"/>
+</p>
 
-| Vendor Profile | Trade Requests |
-|---|---|
-| ![](screenshots/VendorProfile.jpeg) | ![](screenshots/TradeRequests.jpeg) |
+<p align="center">
+  <img src="screenshots/VendorProfile.jpeg" width="230"/>
+  <img src="screenshots/TradeRequests.jpeg" width="230"/>
+</p>
 
-| Shipped Products |
-|---|
-| ![](screenshots/ShippedProducts.jpeg) |
+<p align="center">
+  <img src="screenshots/ShippedProducts.jpeg" width="230"/>
+</p>
+
+
+
+
+
+
